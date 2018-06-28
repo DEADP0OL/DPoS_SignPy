@@ -10,14 +10,14 @@ Offline tools for signing DPoS items in Python
 
 ```git clone https://github.com/DEADP0OL/DPoS_SignPy```
 
-```apt-get install python3-pip```
+```sudo apt-get install python3-pip```
 
-```pip3 install pynacl```
+```sudo pip3 install pynacl```
 
 ## Usage
 
 ```cd DPoS_SignPy```
 
-```Python3 sign.py```
+```python3 sign.py```
 
 Enter message and primary passphrase when prompted.
